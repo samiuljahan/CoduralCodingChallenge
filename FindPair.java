@@ -1,4 +1,7 @@
-import java.util.*;
+import java.util.Map;
+import java.util.HashMap;
+import java.util.Arrays;
+
 class Main {
   public static void main(String[] args) {
     int[] a = {1, 4, 2, 6, 10, 8};
